@@ -1,7 +1,5 @@
 <h1 align="center">PROSENJIT MONDOL</h1>
 
-<p align="center"> <img class="center" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/> </p>
-
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-16&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-16" /> </p>
